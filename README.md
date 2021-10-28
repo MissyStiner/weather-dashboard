@@ -10,7 +10,7 @@ https://missystiner.github.io/weather-dashboard/
 https://github.com/MissyStiner/weather-dashboard
 
 ## Mock-Up
-![https://courses.bootcampspot.com/courses/715/files/723468/preview]
+![![image](https://user-images.githubusercontent.com/85651869/139197847-b5f1c504-f641-4d90-aaa3-13b0ecaba22f.png)]
 
 ## User Story
 AS A traveler<br>
