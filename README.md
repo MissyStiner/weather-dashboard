@@ -4,6 +4,7 @@
 Search for and retrieve weather data for cities courtesy of the OpenWeather One Call API. View multiple results in this weather dashboard.
 
 ## Application URL
+https://missystiner.github.io/weather-dashboard/
 
 ## GitHub URL
 https://github.com/MissyStiner/weather-dashboard
