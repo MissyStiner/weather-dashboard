@@ -1,7 +1,7 @@
 # Weather Dashboard
 
 ## Description
-Search for and retrieve weather data for cities courtesy of the OpenWeather One Call API. View multiple results in this weather dashboard.
+Search and retrieve weather data for cities courtesy of the OpenWeather One Call API. View multiple results in this weather dashboard.
 
 ## Application URL
 https://missystiner.github.io/weather-dashboard/
@@ -31,5 +31,7 @@ WHEN I click on a city in the search history<br>
 THEN I am again presented with current and future conditions for that city
 
 ## Contribution
+Data provided by OpenWeather One Call API: https://openweathermap.org/api/one-call-api <br>
 
 ## Future Plans
+This project is just getting started with only a few HTML and CSS elements added. Additional assignment submits will dive into the GitHub repo issues list.
